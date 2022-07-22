@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.197" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/bg_card.xml" value="0.1295" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/bg_secondary.xml" value="0.197" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/form_namalengkap.xml" value="0.197" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/ic_aaaausername_input.xml" value="0.1995" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/ic_btn_daftar.xml" value="0.1995" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/ic_btn_shape.xml" value="0.197" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/ic_card_bioskop.xml" value="0.197" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/ic_launcher_background.xml" value="0.197" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/ic_line.xml" value="0.197" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/ic_nama_lengkap_profil.xml" value="0.1" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/ic_namalengkap.xml" value="0.1995" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/ic_user.xml" value="0.1" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/ic_username_input.xml" value="0.197" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/radio_not_selected.xml" value="0.1" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/drawable/radio_selected.xml" value="0.1" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/activity_detail_film.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/activity_film.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/activity_pembayaran.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/activity_pilih_kursi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/activity_profil.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/activity_tiket.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/bioskop.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/film.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/NurMa/AndroidStudioProjects/NMMovie/app/src/main/res/layout/jam.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.19947916666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
