@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ic_card_film"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="165dp"
+        android:layout_height="240dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/eeaao_poster"
+        android:id="@+id/poster_film"/>
+    <TextView
+        android:id="@+id/tv_judul"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:text="Everything Everywhere All At Once"
+        android:padding="15dp"
+        android:textColor="@color/white" />
+</LinearLayout>
